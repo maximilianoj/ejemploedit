@@ -1,3 +1,65 @@
+       ../../../../.IdeaIC2016/
+        ../../../../.VirtualBox/
+        ../../../../.android/
+        ../../../../.bash_history
+        ../../../../.cisco/
+        ../../../../.eclipse/
+        ../../../../.gitconfig
+        ../../../../.m2/
+        ../../../../.netbeans-derby/
+        ../../../../.oracle_jre_usage/
+        ../../../../.p2/
+        ../../../../.ssh/
+        ../../../../3D Objects/
+        ../../../../AppData/
+        ../../../../Application Data/
+        ../../../../Contacts/
+        ../../../../Desktop/
+        ../../../../Documents/
+        ../../../../Downloads/
+        ../../../../Favorites/
+        ../../../../IdeaProjects/
+        ../../../../IntelGraphicsProfiles/
+        ../../../../LICENSE
+        ../../../../Links/
+        ../../../../MicrosoftEdgeBackups/
+        ../../../../Music/
+        ../../../../NOTICE
+        ../../../../NTUSER.DAT
+        ../../../../NTUSER.DAT{93d96eec-f418-11e7-991f-28d244de268a}.TM.blf
+        ../../../../NTUSER.DAT{93d96eec-f418-11e7-991f-28d244de268a}.TMContainer00000000000000000001.regtrans-ms
+        ../../../../NTUSER.DAT{93d96eec-f418-11e7-991f-28d244de268a}.TMContainer00000000000000000002.regtrans-ms
+        ../../../../OneDrive/
+        ../../../../Pictures/
+        ../../../../RELEASE-NOTES
+        ../../../../RUNNING.txt
+        ../../../../Saved Games/
+        ../../../../Searches/
+        ../../../../SecondTry_v0_4.19.2.apk
+        ../../../../SecondTry_v1_4.19.2.apk
+        ../../../../Tracing/
+        ../../../../Videos/
+        ../../../../VirtualBox VMs/
+        ../../../../bin/
+        ../../../../default-soapui-workspace.xml
+        ../../../.metadata/
+        ../../.classpath
+        ../../.project
+        ../../.settings/
+        ../../bin/
+        ../../../RemoteSystemsTempFiles/
+        ../../../../huguito/
+        ../../../../inmo/
+        ../../../../ntuser.dat.LOG1
+        ../../../../ntuser.dat.LOG2
+        ../../../../ntuser.ini
+        ../../../../soapui-settings.xml
+        ../../../../streams/
+        ../../../../struts2/
+        ../../../../workspace/
+        ../../../../workspace2/
+
+
 # Compiled class file
 *.class
 
